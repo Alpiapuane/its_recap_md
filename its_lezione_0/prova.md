@@ -16,3 +16,10 @@ liste non ordinate
     - farina 300g
     - zucchero 105 g
 ***
+e questi sono gli elenchi ordinati
+
+1. acqua
+2. vino
+3. coca cola
+    1. ciao
+    - prova
